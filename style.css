@@ -1,0 +1,59 @@
+.button{
+    padding: 10px 30px;
+    margin: 5px;
+    border-radius: 8px;
+    text-decoration: none;
+    border: 2px solid black;
+
+}
+#grey{
+    background-color: grey;
+}
+#red{
+     background-color: red;
+}
+
+#blue{
+     background-color: blue;
+}
+
+#yellow{
+     background-color: yellow;
+}
+#green{
+      background-color: green;
+}
+#orange{
+    background-color: orange;
+}
+#purple{
+    background-color: purple;
+}
+#white{
+    background-color: white;
+}
+#beige{
+    background-color: beige;
+}
+#brown{
+    background-color: brown;
+}
+
+.button2{
+    background-color: cornflowerblue;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 3px;
+     text-align: center;
+}
+nav{
+    background-color: beige;
+    border-radius: 5px;
+    border: 2px solid rgb(151, 151, 7);
+}
+h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
